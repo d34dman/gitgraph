@@ -1,0 +1,14 @@
+{
+    "name": "d34dman/gitgraph",
+    "description": "Package @gitgraph/js as \"drupal-library\" type composer library",
+    "type": "drupal-library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shibin Das",
+            "email": "shibinkidd@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
