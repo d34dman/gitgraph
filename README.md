@@ -1,4 +1,4 @@
-# Vanilla icon picker
+# gitgraph.js
 
 This repository packages "@gitgraph/js" so that it can be used by a contrib module on Drupal.org
 
